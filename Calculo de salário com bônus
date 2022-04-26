@@ -1,0 +1,28 @@
+using System; 
+    
+       class Funcionario
+    {
+        public string Nome { get; set; }
+
+        public double SalarioFixo { get; set; }
+
+        public double ValorVendas { get; set; }
+
+        public double CalculaSalario(double porcentagem)
+
+        {
+            return (ValorVendas * porcentagem) / 100 + SalarioFixo;
+        }
+    }
+
+    static void Main(string[] args) { 
+
+         System.Threading.Thread.CurrentThread.CurrentCulture = new System.Globalization.CultureInfo("en-US");
+         Funcionario vendedor = new Funcionario();
+         vendedor.Nome = Console.ReadLine();
+         vendedor.SalarioFixo = Convert.ToDouble(Console.ReadLine());
+         vendedor.ValorVendas = Convert.ToDouble(Console.ReadLine());
+         
+         Console.WriteLine($"TOTAL = R$ {vendedor.CalculaSalario(15).ToString("F2")}");
+    }
+
