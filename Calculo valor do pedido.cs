@@ -46,4 +46,5 @@ using System.Text;
         ValorConta pedidoatual = lanchonete.Where(p => p.Codigo == codigoPedido).FirstOrDefault();
         decimal total = pedidoatual.Preco * totalPedido;
         Console.WriteLine($"Total: R$ {total}");
+        
     }

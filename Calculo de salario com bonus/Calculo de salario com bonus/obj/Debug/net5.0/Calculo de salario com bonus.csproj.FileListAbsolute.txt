@@ -1,0 +1,16 @@
+C:\Users\edoliveira\Pictures\Calculo de salario com bonus\Calculo de salario com bonus\obj\Debug\net5.0\Calculo de salario com bonus.csproj.AssemblyReference.cache
+C:\Users\edoliveira\Pictures\Calculo de salario com bonus\Calculo de salario com bonus\obj\Debug\net5.0\Calculo de salario com bonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edoliveira\Pictures\Calculo de salario com bonus\Calculo de salario com bonus\obj\Debug\net5.0\Calculo de salario com bonus.AssemblyInfoInputs.cache
+C:\Users\edoliveira\Pictures\Calculo de salario com bonus\Calculo de salario com bonus\obj\Debug\net5.0\Calculo de salario com bonus.AssemblyInfo.cs
+C:\Users\edoliveira\Pictures\Calculo de salario com bonus\Calculo de salario com bonus\obj\Debug\net5.0\Calculo de salario com bonus.csproj.CoreCompileInputs.cache
+C:\Users\edoliveira\Pictures\Calculo de salario com bonus\Calculo de salario com bonus\bin\Debug\net5.0\Calculo de salario com bonus.exe
+C:\Users\edoliveira\Pictures\Calculo de salario com bonus\Calculo de salario com bonus\bin\Debug\net5.0\Calculo de salario com bonus.deps.json
+C:\Users\edoliveira\Pictures\Calculo de salario com bonus\Calculo de salario com bonus\bin\Debug\net5.0\Calculo de salario com bonus.runtimeconfig.json
+C:\Users\edoliveira\Pictures\Calculo de salario com bonus\Calculo de salario com bonus\bin\Debug\net5.0\Calculo de salario com bonus.runtimeconfig.dev.json
+C:\Users\edoliveira\Pictures\Calculo de salario com bonus\Calculo de salario com bonus\bin\Debug\net5.0\Calculo de salario com bonus.dll
+C:\Users\edoliveira\Pictures\Calculo de salario com bonus\Calculo de salario com bonus\bin\Debug\net5.0\ref\Calculo de salario com bonus.dll
+C:\Users\edoliveira\Pictures\Calculo de salario com bonus\Calculo de salario com bonus\bin\Debug\net5.0\Calculo de salario com bonus.pdb
+C:\Users\edoliveira\Pictures\Calculo de salario com bonus\Calculo de salario com bonus\obj\Debug\net5.0\Calculo de salario com bonus.dll
+C:\Users\edoliveira\Pictures\Calculo de salario com bonus\Calculo de salario com bonus\obj\Debug\net5.0\ref\Calculo de salario com bonus.dll
+C:\Users\edoliveira\Pictures\Calculo de salario com bonus\Calculo de salario com bonus\obj\Debug\net5.0\Calculo de salario com bonus.pdb
+C:\Users\edoliveira\Pictures\Calculo de salario com bonus\Calculo de salario com bonus\obj\Debug\net5.0\Calculo de salario com bonus.genruntimeconfig.cache

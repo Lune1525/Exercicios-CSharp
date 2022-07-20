@@ -1,0 +1,16 @@
+C:\Users\edoliveira\Pictures\DDD\DDD\obj\Debug\net5.0\DDD.csproj.AssemblyReference.cache
+C:\Users\edoliveira\Pictures\DDD\DDD\obj\Debug\net5.0\DDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edoliveira\Pictures\DDD\DDD\obj\Debug\net5.0\DDD.AssemblyInfoInputs.cache
+C:\Users\edoliveira\Pictures\DDD\DDD\obj\Debug\net5.0\DDD.AssemblyInfo.cs
+C:\Users\edoliveira\Pictures\DDD\DDD\obj\Debug\net5.0\DDD.csproj.CoreCompileInputs.cache
+C:\Users\edoliveira\Pictures\DDD\DDD\bin\Debug\net5.0\DDD.exe
+C:\Users\edoliveira\Pictures\DDD\DDD\bin\Debug\net5.0\DDD.deps.json
+C:\Users\edoliveira\Pictures\DDD\DDD\bin\Debug\net5.0\DDD.runtimeconfig.json
+C:\Users\edoliveira\Pictures\DDD\DDD\bin\Debug\net5.0\DDD.runtimeconfig.dev.json
+C:\Users\edoliveira\Pictures\DDD\DDD\bin\Debug\net5.0\DDD.dll
+C:\Users\edoliveira\Pictures\DDD\DDD\bin\Debug\net5.0\ref\DDD.dll
+C:\Users\edoliveira\Pictures\DDD\DDD\bin\Debug\net5.0\DDD.pdb
+C:\Users\edoliveira\Pictures\DDD\DDD\obj\Debug\net5.0\DDD.dll
+C:\Users\edoliveira\Pictures\DDD\DDD\obj\Debug\net5.0\ref\DDD.dll
+C:\Users\edoliveira\Pictures\DDD\DDD\obj\Debug\net5.0\DDD.pdb
+C:\Users\edoliveira\Pictures\DDD\DDD\obj\Debug\net5.0\DDD.genruntimeconfig.cache
